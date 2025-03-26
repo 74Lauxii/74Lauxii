@@ -1,4 +1,4 @@
-👋 Hi, I’m @74Lauxii
+👋 Hi, I’m @lauuleglisee
 
 🚀 About Me
 I'm a passionate developer with experience in **JavaScript, HTML, CSS, React, Node.js, and C++**, currently improving my skills in **C#**. I enjoy building web applications, learning new technologies, and tackling challenging coding problems.
@@ -22,4 +22,4 @@ I'm a passionate developer with experience in **JavaScript, HTML, CSS, React, No
 - Email: [lauleglise11@gmail.com](mailto:your-email@example.com)
 
 ⚡ Fun Fact
-I’m currently working on a **small web and software development startup** with friends! 🚀
+I’m currently working on a **small web and software development startup** with friends! Follow us @coder.lux 🚀
