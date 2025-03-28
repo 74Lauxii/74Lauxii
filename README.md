@@ -1,7 +1,7 @@
 👋 Hi, I’m @lauuleglisee
 
 🚀 About Me
-I'm a passionate developer with experience in **JavaScript, HTML, CSS, React, Node.js, and C++**, currently improving my skills in **C#**. I enjoy building web applications, learning new technologies, and tackling challenging coding problems.
+I'm a passionate developer with experience in **JavaScript, HTML, CSS, React, and Node.js**, currently improving my skills in **C#**. I enjoy building web applications, learning new technologies, and tackling challenging coding problems.
 
 🎯 Interests
 - Full Stack Development 🌍
