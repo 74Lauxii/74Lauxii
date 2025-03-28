@@ -7,6 +7,7 @@ I'm a passionate developer with experience in **JavaScript, HTML, CSS, React, an
 - Full Stack Development 🌍
 - Software Architecture 🏗️
 - Cybersecurity 🔒
+- IA 🤖
 
 🌱 Currently Learning
 - Advanced **C#** concepts
